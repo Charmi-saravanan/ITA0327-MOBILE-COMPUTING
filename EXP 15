@@ -1,0 +1,7 @@
+1. Create wireframes: Discover, Topology, Chat, Link Quality and Settings.
+2. Discover: scan for nearby peers and join or create a mesh.
+3. Topology: node graph showing neighbours and the hop count to each peer (dynamic topology challenge).
+4. Chat: messages with delivery status (Sent, Relayed, Delivered) to show store-and-forward over multiple hops.
+5. Link Quality: signal, battery level of relay nodes and packet loss (limited energy, unreliable links).
+6. Settings: encryption on, trusted peers list (security) and power saving mode.
+7. Annotate every screen with the challenge it addresses and link the screens for a clickable demo.
