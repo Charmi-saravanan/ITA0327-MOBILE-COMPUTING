@@ -1,0 +1,8 @@
+1. Create four frames: H1_Start, H2_Weak, H3_Handoff and H4_Complete (plus an optional summary frame). Duplicate the same background (two cells, BS-A on the left, BS-B
+on the right).
+2. H1: place the MS near BS-A with signal bars showing -70 dBm for BS-A and -100 dBm for BS-B.
+3. H2: move the MS towards the cell edge; BS-A drops to -95 dBm and BS-B rises to -88 dBm; show a Threshold line.
+4. H3: show the handoff request messages between MS, BS-A, BS-B and the MSC with the status label Handoff in progress.
+5. H4: connect the MS to BS-B (-72 dBm) and show the status Handoff complete.
+6. Link the frames with Smart Animate and After delay (1.5 s) so that the MS icon moves automatically; also add On drag on the MS for manual control.
+7. Add a Restart button (Navigate to H1) and run the simulation in Present mode.
