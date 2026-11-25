@@ -1,0 +1,5 @@
+1. Create a 1440 x 1024 frame with a left sidebar (Overview, Coverage, Capacity, Quality) and a top filter bar (cell, date range).
+2. Add KPI card components (call blocking, dropped call rate, handoff success, average throughput, SINR).
+3. Add a line chart (traffic in Erlangs over 24 h), a bar chart (cell-wise throughput) and a cell status table.
+4. Use the sample values from the table below and Figma variables for the thresholds (green = target met, amber = check).
+5. Add prototype interactions: clicking a KPI card navigates to a detail frame; hovering a bar shows a tooltip.
