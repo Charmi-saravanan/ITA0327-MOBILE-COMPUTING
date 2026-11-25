@@ -1,0 +1,7 @@
+1. Create a frame 1440 x 900 named Evolution_1G_5G and draw a horizontal timeline with five nodes.
+2. Create a Generation Card component with variants Collapsed and Expanded (properties: generation, year, technology, access, data rate, key feature).
+3. Instantiate five cards and fill them with the data in the table below.
+4. Add On click (Change to Expanded) and While hovering (highlight the node) interactions.
+5. Set the transition to Smart Animate, 300 ms, ease-out, so the cards slide smoothly.
+6. Add a Next/Previous button pair linked with Navigate to between generation frames.
+7. Preview and test the flow.
