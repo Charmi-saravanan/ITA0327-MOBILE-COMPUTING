@@ -1,0 +1,7 @@
+1. Create wireframe screens: Login, OTP Verification, Biometric, Security Centre and Permissions (add an Alerts screen if required).
+2. Login: username, password with show/hide and a Forgot password link.
+3. OTP: six-digit input with a resend timer (two-factor authentication).
+4. Biometric: fingerprint or face prompt with a PIN fallback.
+5. Security Centre: toggles for app lock, VPN, encrypted backup and remote wipe, and a security score.
+6. Permissions: a list of permissions (camera, location, microphone) with allow or deny.
+7. Link the flow Login to OTP to Biometric to Security Centre and annotate each security control.
