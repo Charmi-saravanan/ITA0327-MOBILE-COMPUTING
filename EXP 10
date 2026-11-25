@@ -1,0 +1,7 @@
+1. Create a 390 x 844 mobile frame set with five screens: Home, Network, Quick Settings, Data Usage and Call.
+2. Home: status bar with signal strength, network type and battery, and shortcut tiles.
+3. Network: toggle switches for mobile data, Wi-Fi, Bluetooth and airplane mode, and a manual network selection list.
+4. Quick Settings: auto-connect, hotspot, data saver and do-not-disturb as toggle components.
+5. Data Usage: a bar chart of daily usage with a monthly limit.
+6. Call screen: dial pad, contacts shortcut and a call-over-Wi-Fi option.
+7. Build a Toggle component with On/Off variants, connect the screens with Navigate to and test the flow in Present mode.
