@@ -1,0 +1,7 @@
+1. Create a frame named PLMN_Infographic.
+2. Add a header with the definition: a PLMN is a network established and operated by an operator to provide land mobile telecommunication services to the public.
+3. Draw the PLMN structure: MS, radio access network, core network and links to the PSTN and internet.
+4. Add a PLMN identity block showing MCC (3 digits) plus MNC (2 or 3 digits); give an example such as MCC 404 (India) plus the operator MNC.
+5. Add Home PLMN versus Visited PLMN with a roaming diagram.
+6. Add icons for services (voice, SMS, data) and a key facts strip.
+7. Apply consistent typography and colours; export as PNG and PDF.
