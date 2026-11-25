@@ -1,0 +1,6 @@
+1. Create a frame with two columns, Mobile Communication (left) and Mobile Computing (right), and a common centre area.
+2. Add icon-based definitions: communication = exchange of information over wireless channels; computing = executing applications and accessing data while moving.
+3. Build the comparison table from the data below using auto-layout rows.
+4. In the overlap area list the shared items: wireless links, mobility and portability.
+5. Add examples (calls and SMS versus mobile apps and cloud access).
+6. Export the infographic.
