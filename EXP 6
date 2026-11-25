@@ -1,0 +1,7 @@
+1. Create a frame Multiple_Access with five panels, each a time-frequency (or code/space) diagram.
+2. FDMA: draw vertical coloured bands, one per user, along the frequency axis.
+3. TDMA: draw slices along the time axis, one per user, using the full band.
+4. CDMA: stack overlapping coloured layers, each labelled with a different spreading code.
+5. OFDMA: draw a grid of time-frequency blocks and assign blocks to users in different colours.
+6. SDMA: draw beams from an antenna array towards different users.
+7. Add a comparison table below the panels and a click interaction to highlight one technique.
