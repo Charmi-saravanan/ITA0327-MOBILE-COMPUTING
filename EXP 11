@@ -1,0 +1,7 @@
+1. Create frames: Dashboard, Voice and SMS, Call Settings, USSD and Roaming.
+2. Dashboard: SIM status, operator name, signal bars, balance and validity cards.
+3. Voice and SMS: recent calls and messages with a compose button.
+4. Call Settings: call forwarding, call waiting and call barring toggles (GSM supplementary services).
+5. USSD: a dial-style input (for example *123#) with a response card.
+6. Roaming: roaming on/off, visited network name and a roaming pack button.
+7. Link all screens with a navigation component and test in Present mode.
