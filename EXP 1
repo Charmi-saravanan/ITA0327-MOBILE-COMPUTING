@@ -1,0 +1,8 @@
+1. Create a Figma Design file and add a 1440 x 1024 frame named Cellular_System.
+2. Draw a seven-cell hexagonal cluster using the Polygon tool (6 sides); label the cells 1 to 7.
+3. Place a BTS tower icon at the centre of every cell and a mobile station icon in one cell.
+4. Draw BSC, MSC, HLR/VLR and PSTN as rounded rectangles and convert each to a component.
+5. Connect the blocks with lines (dashed for the radio link Um, solid for wired Abis and A interfaces) and label the interfaces.
+6. Create an Info Card component with two variants, Hidden and Visible, holding the block name and its function.
+7. In Prototype mode set On click on each block to Change to the Visible variant, and On click on the card to return to Hidden.
+8. Press Present and test every block.
