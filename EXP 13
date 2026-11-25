@@ -1,0 +1,7 @@
+1. Create a 390 x 844 greyscale wireframe set: Permission, Map, Nearby, Geofence and Settings.
+2. Permission screen: request location access (while using the app, precise or approximate).
+3. Map screen: map placeholder, current-position marker, accuracy circle and a locate-me button.
+4. Nearby screen: list of places with distance.
+5. Geofence screen: draw a radius around a place with enter/exit alert toggles.
+6. Settings: choose the positioning source (GPS, cell-ID, Wi-Fi) and a privacy toggle.
+7. Link the screens and annotate each one with a short note on the localization technique used.
