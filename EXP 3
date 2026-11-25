@@ -1,0 +1,9 @@
+1. Create a frame NSS_Flowchart; use pill shapes for Start/End, rectangles for processes and diamonds for decisions.
+2. Draw the mobile-originated (MO) path: MS call request, BSS forwards to MSC, MSC asks VLR for subscriber data.
+3. Add the decision: subscriber registered and allowed? If No, reject the call.
+4. Add authentication: VLR obtains triplets from HLR/AuC, the MS is authenticated, ciphering starts and the IMEI is checked with the EIR.
+5. Add the decision: called party in the PSTN or the mobile network? Route via the PSTN or through the GMSC.
+6. Draw the mobile-terminated (MT) path: GMSC queries the HLR (Send Routing Information); the HLR obtains the MSRN from the serving VLR/MSC; GMSC routes the call to the
+MSC; the MSC pages the MS; the MS answers.
+7. Join both paths at Call Connected, then Call Release and End.
+8. Label the arrows (Yes/No) and colour the MO and MT paths differently.
