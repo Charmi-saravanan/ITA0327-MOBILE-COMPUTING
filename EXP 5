@@ -1,0 +1,6 @@
+1. Create a frame Protocol_Stacks with three columns: GSM (Um interface), GPRS and LTE.
+2. Draw each layer as a stacked rounded rectangle (a Layer component with variants Control Plane and User Plane).
+3. Fill the layers from the table below, aligning equivalent layers across the columns.
+4. Add dashed arrows for peer-to-peer logical communication between the MS and the network.
+5. Add a hover interaction to show a one-line description of each protocol.
+6. Add a legend for the colours (physical, link, network, application).
