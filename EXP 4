@@ -1,0 +1,8 @@
+1. Create a frame GPRS_Flow and place the nodes MS, BSS, SGSN, GGSN, HLR and the external packet network (internet).
+2. Step 1: the MS sends a GPRS Attach Request; the SGSN authenticates the MS with the HLR; Attach Accept is returned.
+3. Step 2: the MS sends Activate PDP Context Request containing the APN.
+4. Step 3: the SGSN resolves the APN and sends Create PDP Context Request to the GGSN over GTP.
+5. Step 4: the GGSN allocates an IP address and returns Create PDP Context Response; the SGSN sends Activate PDP Context Accept to the MS.
+6. Step 5: data transfer: MS to BSS (RLC/MAC), BSS to SGSN (BSSGP), SGSN to GGSN (GTP tunnel), GGSN to the internet.
+7. Add a decision: MS moved to a new routing area? If Yes perform Routing Area Update.
+8. Finish with PDP context deactivation and GPRS Detach.
